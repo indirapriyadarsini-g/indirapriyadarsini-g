@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # [***Indirapriyadarsini***](https://github.com/indirapriyadarsini-g)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=indirapriyadarsini-g&label=FIRST+PROFILE+VIEWS)
+#
+![](https://komarev.com/ghpvc/?username=indirapriyadarsini-g)
 
 ## Student with CS majors who focuses on front-end dev 
 ### (actually confused on which track to take on)
