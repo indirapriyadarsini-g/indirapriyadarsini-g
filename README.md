@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-## Student with CS majors who focuses on front-end dev 
+## Student with CS majors who focuses on full stack dev 
 ### (actually confused on which track to take on)
 
 ## These show where I am headed....
