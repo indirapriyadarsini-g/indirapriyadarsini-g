@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ### [Twitter](https://twitter.com/Ira__gk)
 ### [LinkedIn](https://www.linkedin.com/in/indira-priya-darsini-g-4678441b6/)
 ### [Hackerrank](https://www.hackerrank.com/indirapriyadars5)
-## [GeeksForGeeks](https://auth.geeksforgeeks.org/user/indirapriyadarsinig20ug0012/)
+### [GeeksForGeeks](https://auth.geeksforgeeks.org/user/indirapriyadarsinig20ug0012/)
 
