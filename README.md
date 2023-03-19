@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 
 ## Student with CS majors who focuses on full stack dev 
--- (actually confused on which track to take on)
+<!-- -- (actually confused on which track to take on)
 
--- These show where I am headed....
+-- These show where I am headed.... -->
 
 <!--  [Twitter](https://twitter.com/Ira__gk)
 -->
 ### [LinkedIn](https://www.linkedin.com/in/indira-priya-darsini-g-4678441b6/)
 ### [Hackerrank](https://www.hackerrank.com/indirapriyadars5)
 ### [LeetCode](https://leetcode.com/ipd_on_leetcode/)
--- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/indirapriyadarsinig20ug0012/)
+<!-- -- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/indirapriyadarsinig20ug0012/) -->
 
