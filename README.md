@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [***Indirapriyadarsini***](https://github.com/indirapriyadarsini-g)
+# [***Indira Priya Darsini***](https://github.com/indirapriyadarsini-g)
 ![](https://komarev.com/ghpvc/?username=indirapriyadarsini-g&label=VIEWS+COUNTED&color=blueviolet)
 <!-- ![](https://komarev.com/ghpvc/?username=indirapriyadarsini-g&label=FIRST+PROFILE+VIEWS) -->
 
