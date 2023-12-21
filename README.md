@@ -1,22 +1,24 @@
 ### Hi there 👋 I'm Indira Priya Darsini
 
 - 😄 Pronouns: She/her
-- 🌱 I’m currently learning JS
-- 🥅 2023 Goals: Learn enough to contribute
+- 🌱 Learning JS
+- 🔭 I’m currently working on [Market Value Analysis](https://github.com/indirapriyadarsini-g/Market-Value-Analysis)
+- ⚡ Fun fact: I write on [Medium](https://maybeegaul.medium.com/)
+- 🥅 2024 Goals: Learn enough to contribute
 
 <!--
 **indirapriyadarsini-g/indirapriyadarsini-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-- ⚡ Fun fact: ...
+
 -->
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
